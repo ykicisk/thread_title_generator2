@@ -8,10 +8,10 @@
 
 ```
 Generation: SOS 名前 に 「 デス 」 が 付く 曲 NUM つ しか ない EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD score: 4.6163287
-Generation: SOS オコエ 「 マッマ オデ は UNK ん ! 」 ← 誰 で 寝 て た ? EOS PAD PAD PAD PAD PAD PAD score: 3.591072
 Generation: SOS 敵 「 ワイ の こと 好き な ん ? 」 トッモ 「 は ? 僕 は ? 」 EOS PAD PAD PAD PAD score: 3.3199003
 Generation: SOS なんj 民 が 知っ て いる 一番 の UNK は ? EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD score: 3.029164
 Generation: SOS ワイ NUM 歳 大学生 結婚 し たい のに 仕事 が ない EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD score: 2.7726371
+Generation: SOS (*^◯^*) ← 今年 ? 行か なけれ ば なら ない EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD score: 2.641209
 ```
 
 ### Prefix「三大」
