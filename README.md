@@ -1,4 +1,4 @@
-# thread_title_generator2_private
+# thread_title_generator2
 
 なんJスレッドタイトルっぽい文書を自動生成する。
 
